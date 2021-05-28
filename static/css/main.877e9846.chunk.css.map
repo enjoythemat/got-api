@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/app/app.css"],"names":[],"mappings":"AAAA,KACE,6BAA+B,CAC/B,QAAS,CACT,qBACF,CACA,UACE,eAAgB,CAChB,gBACF","file":"main.877e9846.chunk.css","sourcesContent":["body {\r\n  font-family: Roboto, sans-serif;\r\n  margin: 0;\r\n  background-color: #eeeeee;\r\n}\r\n.cardInfo {\r\n  max-width: 500px;\r\n  margin: 2rem auto;\r\n}"]}
